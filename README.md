@@ -1,2 +1,2 @@
 # DK
-Deutsche Kurs
+Deutschkurs
