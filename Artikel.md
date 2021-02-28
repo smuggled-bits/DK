@@ -19,12 +19,12 @@ Nomen mit endung:
 | -**ast**     | -**enz**    |  	 	 |
 | -**eur**     | **-t** |         |
 
-|          | bestimmte | unbestimmte | negativ | possessiv        |
-| -------- | --------- | ----------- | ------- | ---------------- |
-| Maskulin | der       | ein         | kein    | mein, dein ...   |
-| Feminin  | die       | eine        | keine   | meine, deine ... |
-| Neutrum  | das       | ein         | kein    | mein, dein ...   |
-| Pl.      | die       | ---         | keine   | meine, deine ... |
+|          | bestimmte | unbestimmte | negativ | possessiv        | Akusativ | Dativ | 
+| -------- | --------- | ----------- | ------- | ---------------- | ------- | ------ |
+| Maskulin | der        | ein         | kein    | mein, dein ...   | einen | dem      |
+| Feminin  | die       | eine        | keine   | meine, deine ... | eine  | der      |
+| Neutrum  | das       | ein         | kein    | mein, dein ...   | ein   | dem      |
+| Pl.      | die       | ---         | keine   | meine, deine ... | eine  | den +...-n |
 
 | Pers. | Maskulin | Feminin    | Neutrum | Plural     |
 | ----- | -------- | ---------- | ------- | ---------- |
