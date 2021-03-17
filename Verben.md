@@ -1,13 +1,13 @@
 ### Modalverben
 
-|             | können | müssen | wollen |
-| ----------- | ------ | ------ | ------ |
-| ich         | kann   | muss   | will   |
-| du          | kannst | musst  | willst |
-| er, sie, es | kann   | muss   | will   |
-| wir         | können | müssen | wollen |
-| ihr         | könnt  | müst   | wollt  |
-| sie, Sie    | können | müssen | wollen |
+|             | können | müssen | wollen | dürfen |
+| ----------- | ------ | ------ | ------ | ------ |
+| ich         | kann   | muss   | will   | darf   |
+| du          | kannst | musst  | willst | darfst |
+| er, sie, es | kann   | muss   | will   | darf   |
+| wir         | können | müssen | wollen | dürfen |
+| ihr         | könnt  | müst   | wollt  | dürft  |
+| sie, Sie    | können | müssen | wollen | dürfen |
 
 #### Verben mit VOKALWECHSEL  
 
@@ -44,7 +44,7 @@
 | ihr         | fahr**t**  | schlaf**t**  | lauf**t**  |
 | sie, Sie    | fahr**en** | schlaf**en** | lauf**en** |
 
-### Stamm -en
+### Stamm + -en
 
 | Pers. / Verbe | kommen     | wohnen     | schreiben     | leben     |
 | ------------- | ---------- | ---------- | ------------- | --------- |
@@ -56,7 +56,7 @@
 | sie / Sie     | komm**en** | wohn**en** | schreib**en** | leb**en** |
 
 
-##### Stamm -d / -t Hilfs -e
+##### Stamm + -d / -t Hilfs -e
 
 | Pers. / Verbe | warten         | arbeiten  | finden  |
 | ------------- | -------------- | --------- | ------- |
@@ -67,7 +67,7 @@
 | ihr           | wart*e* **t**  | arbeitet  | findet  |
 | sie / Sie     | wart**en**     | arbeiten  | finden  |
 
-##### Stamm -s, -ss, -ß, -tz  
+##### Stamm + -s, -ss, -ß, -tz  
 
 | Pers. / Verbe | kü==ss==**en** | heißen        | sitzen        |
 | ------------- | -------------- | ------------- | ------------- |
@@ -77,3 +77,4 @@
 | wir           | küss**en**     | heiß**en**    | sitz**en**    |
 | ihr           | küss**t**      | heiß**t**     | sitz**t**     |
 | sie / Sie     | küss**en**     | heiß**en**    | sitz**en**    |
+
